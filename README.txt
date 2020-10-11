@@ -11,6 +11,7 @@ Feature2
 Feature2 changes
 
 Fixing bug#123456
+Another fix to Bug#123456
 
 Feature1
 Feature2
